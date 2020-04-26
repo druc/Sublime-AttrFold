@@ -1,5 +1,5 @@
 # ClassFold for SublimeText
-A plugin for Sublime Text, that folds/unfolds html class attributes making it easier to work with utility-first CSS Frameworks.
+Fold & unfold class attributes making it easier to work with utility-first CSS Frameworks.
 
 ![alt text](classfold.gif "Logo Title Text 1")
 
