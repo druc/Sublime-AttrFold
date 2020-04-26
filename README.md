@@ -16,4 +16,4 @@ Fold & unfold class attributes making it easier to work with utility-first CSS F
 4. Windows users will need to restart Sublime Text to finish the installation.
 
 ### Installation (Manual)
-Download the zip, re-name resulting folder to: ColdFold, then put the folder into your Sublime Text Packages folder.
+Download the zip, re-name resulting folder to: ClassFold, then put the folder into your Sublime Text Packages folder.
