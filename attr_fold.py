@@ -3,7 +3,7 @@ import sublime, sublime_plugin, re
 class AttrFoldCommand(sublime_plugin.TextCommand):
   settings = False
   def run(self, edit):
-    self.settings = sublime.load_settings('AttrFold.sublime-settings')
+    self.settings = sublime.load_settings('attr-fold.sublime-settings')
 
     attrs = self.settings.get('attributes')
 
