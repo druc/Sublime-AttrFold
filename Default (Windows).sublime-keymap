@@ -3,6 +3,6 @@
         "keys": [
             "ctrl+alt+k"
         ],
-        "command": "class_fold"
+        "command": "attr_fold"
     }
 ]

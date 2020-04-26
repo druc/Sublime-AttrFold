@@ -1,6 +1,6 @@
 [
   {
-    "caption": "Class fold",
-    "command": "class_fold"
+    "caption": "Attribute fold",
+    "command": "attr_fold"
   }
 ]
