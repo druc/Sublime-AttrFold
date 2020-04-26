@@ -1,0 +1,8 @@
+[
+    {
+        "keys": [
+            "super+option+k"
+        ],
+        "command": "class_fold"
+    }
+]
